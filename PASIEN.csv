@@ -1,0 +1,231 @@
+NO,NO RM,NAMA PASIEN,JENIS KELAMIN,UMUR,ALAMAT,BD,TD,GDS,PENYAKIT PENYERTA,TINGKAT PENYAKIT,X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,TRIASE,STATUS
+1,524867,Budiman,laki,63,"Badegan,Bantul.",72,160/90,350,,4,1,2,2,79,160,ada,tdk,ada,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,ada,IGD,INAP BANGSAL
+2,117816,Siamti,wanita,44,"Sawah,Trimurti,Srandakan",51,130/90,324,CKD,1,4,4,4,90,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+3,180631,Arjiyo,laki,75,"Sawahan,Trimurti,srandakan",53,130/90,441,CKD,1,4,5,4,72,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+4,544570,Misah,wanita,72,"Kalidadap,selopamioro,Imogiri",61,150/80,153,Leptopirosis,3,3,5,5,78,150,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,POLI,INAP BANGSAL
+5,523217,Tunah,wanita,61,"Puron,trimurti,Srandakan",51,160/90,335,Ulkus,1,4,5,5,87,160,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,tdk,tdk,POLI,INAP BANGSAL
+6,445759,Sarjinem,wanita,66,"Nogosari,Trirenggo,Bantul",40,130/81,220,Ulkus,1,4,5,5,78,130,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,ada,tdk,POLI,JALAN
+7,110877,sutri.,wanita,71,Turi Sd mulyo BB lipuro,68,120/80,209,CKD,1,4,5,5,77,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+8,363889,Banujo,laki,56,"Karen,trimulyo,kretek",49,140/90,462,Ulkus,1,4,5,5,88,140,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+9,372869,Zuni Astuti,wanita,42,"Gn.Cilik,Tunjungan,Pandak",38,130/90,180,CKD,1,4,5,5,88,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+10,364236,Sumasono,laki,59,"jodog,Gl Harjo,Pandak",68,120/90,302,Ulkus,1,4,5,5,88,140,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,ada,tdk,POLI,JALAN
+11,345833,Zuniyah,wanita,36,"Blawong,trimukyo,jetis,Bantul",43,130/80,339,Ulkus,1,4,5,5,88,140,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,ada,tdk,POLI,JALAN
+12,424777,Sarmi,wanita,55,"Jambewangi,Temuwuh Kidul",47,130/80,416,Ulkus,1,4,5,5,88,140,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+13,520677,Marsudi,laki,41,"Pringgading,Guwosati,Pajangan",58,120/90,246,Ulkus,1,4,5,5,88,120,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+14,344265,Sugiman,laki,44,"Kembangputihan,Sendang sari, Pajangan",56,130/80,185,Ulkus,1,4,5,5,88,130,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,ada,tdk,IGD,JALAN
+15,365148,aminah,wanita,77,"soropaten,ringinharjo sewon",52,190/90,589,CKD,1,4,6,5,87,190,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,POLI,JALAN
+16,452225,Amri,laki,63,"sudimoro,tb harjo ,sewon",62,150/90,458,Hypertensi,1,4,6,5,80,150,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+17,567430,kuatinem,wanita,56,"jetis,Bb lipuri,Bantul",48,160/90,307,Hypertensi,1,4,6,5,80,160,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,POLI,INAP BANGSAL
+18,430435,musiyah,wanita,58,"senggotan,dongkelan,",52,180/100,187,Hypertensi,1,4,6,5,80,180,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,POLI,INAP BANGSAL
+19,100154,budiati,wanita,54,"kr gede, Pdw harjo,sewon",56,130/90,292,Asthma,4,4,6,5,80,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,POLI,JALAN
+20,520317,paimin,laki,51,"gaten,canden,jetis,bantul",62,120/80,256,Anemia,2,4,6,5,90,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,POLI,INAP BANGSAL
+21,522474,simun,laki,59,"kalijurang,srigading,sanden",57,130/90,345,Dyspepsia,3,4,6,5,87,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,POLI,INAP BANGSAL
+22,518548,suhadi,laki,36,"Donotirto,Bangunjiwo,Kasihan,Bantul",58,130/90,261,CKD,1,4,6,5,86,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,POLI,INAP BANGSAL
+23,519805,sarjiyem,wanita,42,"sewon,timbulharjo,sewon",38,150/100,210,CHF,2,4,6,5,92,150,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,POLI,INAP BANGSAL
+24,451912,sarjono,laki,72,"Glagahan,caturharjo,pandak",67,90/60,218,Sesak Nafas,1,4,6,5,76,90,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,POLI,INAP BANGSAL
+25,477202,sri umi,wanita,31,"Gluntung,Caturharjo,Pandak",47,110/70,394,Syndrum Neprotic,4,4,6,5,89,110,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,POLI,INAP BANGSAL
+26,472701,tuminem,wanita,53,"Lanteng,selopamioro,Imogiri",49,120/80,202,Carsinoma,4,4,6,5,85,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,POLI,INAP BANGSAL
+27,327234,ngatinem,wanita,60,"Rukeman,Tamantirto,Kasihan",48,120/70,197,Dyspepsia,3,4,6,5,88,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,POLI,INAP BANGSAL
+28,504288,syahrul,wanita,17,"jeblok,tirtonirmolo,kasihan.",47,120/80,494,Gastric Ulcer,3,4,6,5,90,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,POLI,INAP BANGSAL
+29,521943,rudianto,laki,42,"pugeran,banguntapan,bantul",62,160/100,227,Hypertensi,1,4,6,5,89,160,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,POLI,INAP BANGSAL
+30,567650,khawan,laki,50,"jodok,gilangharjo,pandak",58,130/70,197,Diare,3,4,6,5,88,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,POLI,INAP BANGSAL
+31,478834,sumidah,wanita,55,"Pokoh,Palbapang,Bantul.",42,130/80,347,Vertigo,3,4,6,5,86,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+32,478288,slamet AB,laki,64,"Taruban,Ringinharjo,Bantul",73,130/90,464,Hypertensi,1,4,6,5,92,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+33,469612,Budianto,laki,63,PerumKasper Sewon,75,130/90,433,Caries Gigi,3,4,6,5,78,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,POLI,JALAN
+34,480220,tuwuh,wanita,77,"Geger,Seloharjo,Pundong",43,130/80,394,Dyspepsia,3,4,6,5,77,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+35,480187,Jatini,laki,68,"Sanggrahan,Munthuk,Dlingo",75,130/90,217,BPH,4,4,6,5,81,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,POLI,JALAN
+36,478770,Ngadilah,wanita,79,"Kiyaran,SB Agung,Jetis",65,120/90,394,Vertigo,3,4,6,5,83,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+37,466639,Kustiati,wanita,57,"Polaman,Argorejo,Sedayu",49,130/80,215,LBH,4,4,6,5,88,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,POLI,JALAN
+38,468956,Ismail,laki,52,Jln Jayeng prawiran,63,120/80,165,LBH,4,4,6,5,86,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,POLI,JALAN
+39,528163,Suprihatin,wanita,47,"Driyan,Gumulan Triharjo,Pandak",42,150/100,185,Ulkus,1,4,6,5,89,150,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,ada,tdk,POLI,INAP BANGSAL
+40,529362,Marsinem,wanita,50,"Sonopakis,Ngestiharjo,Kasihan",43,120/80,179,Mioma Uteri,4,4,6,5,88,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,POLI,JALAN
+41,528161,Randusari,wanita,52,"Cagunan,trimurti,Srandakan",48,140/90,193,Anemia,2,4,6,5,86,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+42,124118,Haryati,wanita,54,"Klisat,Triharjo,Pandak.",46,140/90,243,GEA,3,4,6,5,86,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+43,125373,Eni Tati,wanita,62,"Kergan,Trimulyo,Kretek",52,170/80,233,CKD,1,4,6,5,86,170,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,POLI,JALAN
+44,127201,Paido,laki,57,"Sanggrahan,Murtigading,Sanden.",68,150/90,153,Dyspepsia,3,4,6,5,88,150,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+45,131669,Siti S,wanita,59,"Gedriyan,Bantul,Bantul.",49,120/80,214,,4,4,6,5,84,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+46,133316,Indri Hastuti,wanita,54,"Kepuhan,Argorejo,Sedayu",43,130/80,302,Dyspepsia,3,4,6,5,86,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+47,115686,Firngidati,wanita,58,"Miri,Sriharjo,Imogiri",45,120/90,231,ISK,3,4,6,5,83,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,POLI,JALAN
+48,322991,Kuatono,laki,42,"Plumutan,Mulyodadi,BB Lipuro",56,140/90,423,Gastritis,3,4,6,5,89,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,POLI,INAP BANGSAL
+49,151635,Joko W,laki,77,"Sanden,Murtigading,Sanden",69,130/80,212,,4,4,6,5,71,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+50,138903,Intan,wanita,15,"Bolon,Palbapang,Bantul",42,110/80,232,,4,4,6,5,92,110,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+51,318649,iskandar,laki,54,"Kerten,SB Agung,Jetis",65,130/70,133,,4,4,6,5,86,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+52,318735,sulasmi,wanita,29,"Ngunan Unan ,srigading,Sanden",43,120/80,135,Thypoid,4,4,6,5,89,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,POLI,JALAN
+53,320953,Tuginem,wanita,59,"Namngsri,Srihardono,Pundong",47,140/80,242,Ulkus,1,4,6,5,86,140,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,ada,tdk,POLI,JALAN
+54,330546,kasinem,wanita,60,"Badegan,Bantul",53,140/90,129,,4,4,6,5,74,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+55,333540,ponijem,wanita,58,"Dronco,Gejayan,Imogiri",48,130/80,426,Ulkus,1,4,6,5,88,130,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,ada,tdk,POLI,JALAN
+56,335388,isnizar,laki,59,"Bogoran,Trirenggo,Bantul",65,130/90,162,Dyspepsia,3,4,6,5,88,162,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+57,345833,uniyah,wanita,63,"Blawong,trimukyo,jetis,Bantul",52,130/90,308,Ulkus,1,4,6,5,77,130,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,ada,tdk,IGD,INAP BANGSAL
+58,348904,wiwik,wanita,52,"Kweni,Panggungharjo,Sewon",61,130/80,189,,4,4,6,5,86,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+59,356907,Saring,laki,50,"Pundong,Sri hardono,Pundong",61,130/70,103,Asthma,4,4,6,5,88,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,POLI,INAP BANGSAL
+60,378789,Ngadil.,laki,74,"Bagongan,Nopolelo,Galur",52,140/90,445,Hypertensi,1,4,6,5,88,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,POLI,INAP BANGSAL
+61,395126,Pawiro,laki,80,"Asrayu,Bantul,Bantul.",51,130/90,215,GEA,3,4,6,5,88,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,POLI,INAP BANGSAL
+62,347401,Paryati,wanita,63,"Nogosari<wukursari,Imogiri",60,140/90,231,Hyperlipidaemia,2,4,6,5,78,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+63,364236,Sumarsono,laki,58,"Jodog,Gl Harjo,Pandak",62,130/81,303,Ulkus,1,4,6,5,88,130,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,ada,tdk,IGD,INAP BANGSAL
+64,364112,Sunu widodo,laki,62,"Paseban,Imogiri,Btl",63,170/121,161,Stemi,1,4,6,5,82,170,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+65,362986,Tri Wiratni,wanita,62,"Masan,Tirtosari,Kretek",53,130/90,241,Ulkus,1,4,6,5,79,130,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,ada,tdk,POLI,JALAN
+66,356752,Sri Herniati,wanita,54,"Kurahan,Bantul",57,120/81,140,Gastritis,3,4,6,5,89,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+67,368522,Slamet.,laki,56,"Plembon,Trirenggo,Bantul.",45,130/81,159,,4,4,6,5,88,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+68,387388,Bambang,laki,50,"Trayeman,Pleret,Bantul.",63,130/80,113,,4,4,6,5,88,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+69,386761,Sukarjimah,wanita,60,"kadisoro,gilangharjo,pandak",51,140/90,198,Arhtrosis,4,4,6,5,86,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+70,385624,Wuryanto,laki,48,"Gedangan,Panjangrejo,Pundong",57,120/80,180,,4,4,6,5,88,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+71,520572,Samsiah,wanita,56,"Keputren,Pleret,Bantul.",44,170/90,386,Hypertensi,1,4,6,5,89,170,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,POLI,INAP BANGSAL
+72,520637,Sugiri,laki,44,"Pedes<argomulyo,Sedayu",64,130/70,270,Thypoid,4,4,6,5,78,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,POLI,INAP BANGSAL
+73,416950,Rasinah,wanita,78,"Bogoran,Trirenggo,Bantul",53,130/80,322,,4,4,6,5,87,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+74,417234,Fitri Nurohman,laki,28,"Brosot,Galur,Kp",56,120/70,214,,4,4,6,5,86,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+75,430467,Parmi,wanita,41,"Susukan,Giritirto,Purwosari",46,130/90,226,Hamil 15 mg,4,4,6,5,89,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+76,526914,Mugirah,wanita,64,"Pucanganom,Murtigading,Sanden.",54,150/90,315,Hypertensi,1,4,6,5,80,150,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,POLI,INAP BANGSAL
+77,525027,Lintarto,laki,45,"Bangeran<sadbodadi,Bantul",59,160/90,244,Gastritis,3,4,6,5,89,160,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,POLI,INAP BANGSAL
+78,523893,Sutrimah,wanita,39,"Sanden,Murtigading,Sanden",41,130/90,383,Dyspepsia,3,4,6,5,91,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,POLI,INAP BANGSAL
+79,430812,Badini,wanita,71,"Jomblang,Palbapang,Bantul",55,160/90,227,CHF,2,4,6,5,78,160,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+80,531038,Tentrem,wanita,64,"Kembaran,Tamantirto,Kasihan",53,150/90,225,Vertigo,3,4,6,5,86,150,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,INAP BANGSAL
+81,529596,Jayilah,wanita,70,"Dongkelan,Panggungharjo,sewon",65,150/80,432,Dyspepsia,3,4,6,5,76,150,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,POLI,INAP BANGSAL
+82,529858,Subari,laki,46,"Sanggrahan,Murtigading,Sanden.",55,130/90,300,Hypertensi,1,4,6,5,88,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,POLI,INAP BANGSAL
+83,423472,Sugiyanan,laki,48,"Gulon,Srihardono,Pundong",56,140/90,241,Hypertensi,1,4,6,5,89,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+84,425031,Ponidah,wanita,64,"Kepek,Tg harjo,Sewon",54,140/90,431,Vertigo,3,4,6,5,79,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+85,528346,Muh.Jamhari,laki,57,"sawahan,Pendowoharjo,Sewon",55,130/90,290,Ulkus,1,4,6,5,80,130,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,ada,tdk,POLI,INAP BANGSAL
+86,440402,Leonardus,laki,40,"Tegalmulyo,Pakuncen,Wirobrajan",56,150/100,326,Hypertensi,1,4,6,5,88,150,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+87,440135,Djumijo,laki,68,"Gendeng,Bg Jiwo,Kasihan",72,140/90,246,Myalgia,2,4,6,5,76,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+88,368859,Suatmaji,laki,57,"Rogoitan,Pendowoharjo,Sewon",68,130/80,254,Dyspneu,1,4,6,5,86,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+89,452225,Amri,wanita,62,"sudimoro,tb harjo ,sewon",48,140/90,233,Hypertiroid,4,4,6,5,80,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+90,449895,Darjono,wanita,61,"Kadisoro,Gl Harjo,Pandak",51,150/90,254,Dyspepsia,3,4,6,5,81,150,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+91,453971,Mujiyono,laki,56,"Gemahan,Ringinharjo,Bantul",62,130/90,473,CHF,2,4,6,5,86,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+92,453299,Wakijan,laki,72,"Monggangan,Palbapang,Bantul",55,130/90,155,Abses Mandibola,2,4,6,5,76,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,POLI,JALAN
+93,445672,Muji Sarasih,wanita,45,"Juwono,Triharjo,Pandak",70,140/91,239,,4,4,6,5,88,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+94,445221,Afriani,wanita,34,"Gatak,Bokoharjo,Prambanan",53,140/91,326,,4,4,6,5,89,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+95,441587,Kasiyah,wanita,50,"Gabusan,Tg harjo,sewon",43,140/90,233,,4,4,6,5,89,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+96,207973,Sulisdi,laki,63,"Kalimundu,Gadingharjo,Sanden",57,140/90,201,ISK,3,4,6,5,78,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,POLI,INAP BANGSAL
+97,466129,Zuhdi,laki,55,"Karangtalun,Imogiri",49,130/80,93,CA Mame,4,4,6,5,80,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,POLI,JALAN
+98,467224,Nini,wanita,67,"Ketoyan,Giripurwo,Purwosari",52,140/90,324,,4,4,6,5,79,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+99,140776,Suratman,laki,60,"Plosorejo,Gentan,Bendosari",54,150/90,231,Chest paint,1,4,6,5,82,150,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,POLI,INAP BANGSAL
+100,466616,kalil,laki,55,"Duwura,Pr Tritis,Kretek",68,120/80,446,Ulkus,1,4,6,5,79,120,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,ada,tdk,POLI,INAP BANGSAL
+101,469121,triyono,laki,43,"kuroboyo,Caturharjo,Pandak",56,140/90,204,CHF,2,4,6,5,90,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,POLI,INAP BANGSAL
+102,416469,Sri Muinap,wanita,45,"Gn Butak,Nglangeran Pathuk.",55,110/80,296,Pharingitis,4,4,6,5,88,110,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+103,416428,Titik R,wanita,61,"dongkelan,imogiri bantul",49,120/80,219,,4,4,6,5,76,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+104,110874,dawam,laki,72,"turi,sd mulyo,BB lipuro",69,140/90,136,Celulitis,2,4,6,5,72,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+105,469844,sumarwan,laki,36,"karen,tirtomulyo,kretek",56,110/80,381,GEA,3,4,6,5,90,110,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,POLI,INAP BANGSAL
+106,470395,sumiyati,wanita,50,"ngondel,krambilsawit,saptosari",48,150/90,213,Anemia,2,4,6,5,88,150,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,POLI,INAP BANGSAL
+107,499856,tuwarjo,laki,59,"Gumulan,caturharjo,pandak",63,120/80,213,GEA,3,4,6,5,86,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,POLI,INAP BANGSAL
+108,486824,rajinab,wanita,46,"sudimoro.timbulhsrjo,sewon",69,150/90,273,Hypertensi,1,4,6,5,92,150,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+109,482142,sri amini,wanita,74,medelan sb agung jetis,58,150/90,210,Hypertensi,1,4,6,5,73,150,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+110,492338,sucilawati,wanita,50,mangir sendangsari pajangan,59,130/90,297,Decom Cordis,4,4,6,5,88,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,POLI,JALAN
+111,486921,Sumarno,laki,64,"bumijo, yogyakarta",56,180/90,569,Hypertensi,1,4,6,5,88,180,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP BANGSAL
+112,567607,Mujirah,wanita,57,code tri renggo bantul,47,120/80,34,Anemia,2,4,6,5,88,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP BANGSAL
+113,207973,sarijo,laki,63,"jomboran,gilangharjo,pandak",58,140/80,346,Thypoid,4,4,6,5,80,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+114,521077,jasilah,wanita,65,"tegallayang,caturharjo,pandak",51,160/90,224,Hematemesis,3,4,6,5,80,160,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP BANGSAL
+115,522272,nurhayati,wanita,60,Jln Meijen SutoyoNyangkringan Bantul,56,160/90,386,Ulkus,1,4,6,5,88,160,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+116,526615,kusharyadi,laki,31,"Kweni,Panggungharjo,sewon",68,130/90,416,Hypokalaemia,4,4,6,5,78,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP BANGSAL
+117,481565,tukimin,laki,64,"Cangkring,SB Agung,Jetis",71,130/80,212,"Ulkus,TBC",1,4,6,5,86,130,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+118,377115,alifah nur,wanita,23,"Perum Pring Gading permai,",41,120/70,390,"Ulkus, Gastritis",1,4,6,5,90,120,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+119,429507,siwuh,wanita,59,"Gumuk,Ringinharjo,Bantul",48,190/100,293,Hypertensi,1,4,6,5,88,190,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+120,421219,seno,laki,55,"Siluk,Selopamioro,Imogiri",68,130/90,333,Bronchitis,3,4,6,5,88,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+121,386144,wakijo,laki,54,"Jigudan,Triharjo,Pandak.",69,130/80,429,Ulkus,1,4,6,5,89,130,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+122,475458,kaderi,laki,82,"jl lodan,minomartani,ngaglik",58,130/80,123,GEA,3,4,6,5,89,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+123,519924,sugito,laki,48,"bandung,pendowoharjo,sewon",69,130/80,306,Malaena,3,4,6,5,88,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+124,103561,siti masiroh,wanita,58,"nambangan,seloharjo,pundong",57,130/90,396,Ulkus,1,4,6,5,89,130,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+125,567751,Sunardi,laki,71,"Pranti Gadingharjo,Sanden",54,140/80,545,Dyspepsia,3,4,6,5,74,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,INAP BANGSAL
+126,530699,wiji Suhartana,laki,53,"Candran,KB agung,Imogiri",68,120/80,242,CKD,1,4,6,5,88,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+127,531489,Cipto,laki,55,"Barongan,SB Agung,Jetis",69,120/80,502,,4,4,6,5,86,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP BANGSAL
+128,132767,Purwadi,laki,53,"wonoreji,gadingsari,sanden",62,130/90,218,Ulkus,1,4,6,5,88,130,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+129,132760,Suratmini,wanita,61,"Gadungan<pasar,Jetis",55,140/90,147,Dyspepsia,3,4,6,5,74,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP BANGSAL
+130,116987,Pait P.,laki,70,"Bongoskenti,Murtigading,Sanden.",58,150/90,238,Hypertensi,1,4,6,5,75,150,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP BANGSAL
+131,117565,Tugimin,laki,77,"Puro,trimurti,Srandakan",62,130/90,445,Ulkus,1,4,6,5,77,130,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+132,531105,Mardi Puspoko,laki,71,"Pajimatan,Wukirsari,Imogiri",59,140/80,405,KP Duplek,3,4,6,5,72,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+133,527873,Juminem,wanita,72,"Pucanganom,Murtigading,Sanden.",52,150/90,223,Stroke,1,4,6,5,78,150,tdk,ada,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP BANGSAL
+134,256906,Sawabi,laki,59,"Ketanggungan,Wirobrajan,Jogya",63,130/90,47,Myopia,4,4,6,5,88,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+135,304277,Sarjilah,wanita,48,"Paten,Srihardono,Pundong",41,130/90,355,Ulkus,1,4,6,5,88,130,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+136,351722,Mesran,laki,55,"Gayan,Argosari,sedayu",62,120/70,412,Hypertermia,4,4,6,5,88,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP BANGSAL
+137,385704,Tumirah,wanita,51,"Ngentak,Bg Jiwo,Kasihan",45,130/90,255,Chest paint,1,4,6,5,88,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP BANGSAL
+138,400139,Suparman,laki,58,"Grujuka,SB Mulyo,BB lipuro",62,130/90,449,Urticaria,3,4,6,5,88,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP BANGSAL
+139,520596,Maryadi,laki,56,"Sogatra,Ringinharjo,Bantul",69,180/90,396,Hypertensi,1,4,6,5,77,180,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP BANGSAL
+140,523528,Surip,wanita,65,"Jetis,selopamioro,Imogiri",51,130/90,136,Anemia,2,4,6,5,89,160,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP BANGSAL
+141,523140,Lanjari,wanita,52,"Ngepet,Sri gading,Sanden",45,170/90,411,Hypertensi,1,4,6,5,90,170,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP BANGSAL
+142,524056,Mangun Wiyarjo,wanita,85,"Kradenan,Girirejo,Imogiri",68,130/80,46,GEA,3,4,6,5,78,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP BANGSAL
+143,532882,Juriyono,laki,46,"Ngoto,Bg Harjo,Sewon",51,130/70,334,Vomitus,3,4,6,5,89,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+144,532545,Samikin,laki,54,"Wetan pasar wates,Wates,Kp",68,140/90,305,Ulkus,1,4,6,5,88,140,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+145,532169,Franciska,wanita,62,"Kweni,Pg Harjo, Sewon",51,130/90,423,Vertigo,3,4,6,5,78,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+146,545041,luwih,wanita,61,"Jaten,Triharjo,Pandk",52,140/90,249,Anorexia,3,4,6,5,79,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+147,512169,Surati,wanita,44,"Talkondo,Poncosari,Srandakan",51,130/80,213,Fraktur Os Nassal,4,4,6,5,88,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+148,303890,Trisno,wanita,73,"Karang asem,Wukirsari,Imogiri",52,130/90,401,Vomitus,3,4,6,5,72,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+149,440449,Inarotul,wanita,24,"Gupak warak,Sd sari,Pajangan",36,120/80,231,Anemia,2,4,6,5,92,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+150,130362,Mahdalena,wanita,61,"jomboran,gilangharjo,pandak",47,130/80,216,Dyspepsia,3,4,6,5,79,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+151,192397,Adponi,laki,54,"Masahan,Trirenggo,Bantul",49,190/100,361,CKR,4,4,6,5,78,190,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+152,105114,Jirhani,laki,60,"andingan,Ringinharjo,bantul",52,140/90,290,CHF,2,4,6,5,78,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+153,466527,kamini,wanita,47,"banyu urip caturharjo,pandak",56,130/90,421,Dyspneu,1,4,6,5,88,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+154,446786,Inganah,wanita,57,"sudimoro,timbulharjo,sewon",48,180/100,292,Hypertensi,1,4,6,5,87,180,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP BANGSAL
+155,459125,satijah,wanita,57,"Sudimoro,Tb Harjo,Sewon",48,180/90,420,Anemia,2,4,6,5,89,180,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP BANGSAL
+156,454748,ruliyah,wanita,62,"bekelan,tirtonirmolo kasihan",58,130/90,314,Vomitus,3,4,6,5,72,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+157,509569,saryuni,wanita,43,"mrisi,Tirtonirmolo.kasihan",52,130/90,323,Ulkus,1,4,6,5,92,130,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+158,492376,priyo suyoto,laki,73,"pedak,trimurti,srandakan",58,150/90,210,Hypertensi,1,4,6,5,72,150,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP BANGSAL
+159,197537,juniono,laki,52,gandekan trirenggo bantul,67,100/90,483,GEA,3,4,6,5,88,100,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP BANGSAL
+160,307352,atmo wiyadi,laki,76,"mediro,gulurejo,lendah",53,170/100,357,Hypertensi,1,4,6,5,80,170,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+161,100770,siti wastuti,wanita,71,"kadisoro,gilangharjo,pandak",51,120/90,444,Hypertensi,1,4,6,5,87,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+162,522121,rodiyati,wanita,67,"baransari,sardonoharjo,ngaglik",52,145/90,138,,4,4,6,5,86,145,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+163,479533,wahyuni,wanita,53,"Manggung,Wukirsari,Imogiri",46,120/80,327,Ulkus,1,4,6,5,86,120,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,ada,tdk,IGD,JALAN
+164,478052,saridanto,laki,36,"Bodowalu,Poncosari,Srandakan",54,120/80,357,,4,4,6,5,88,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+165,472895,tumiyem,wanita,56,"Karangmojo.Trirenggo,Bantul.",49,130/90,260,Ulkus,1,4,6,5,86,130,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,ada,tdk,IGD,JALAN
+166,475742,maidi,laki,79,"kuroboyo,Caturharjo,Pandak",69,120/80,300,,4,4,6,5,78,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+167,470243,Edi Susanto,laki,54,"Druwo,Bangunharjo,Sewon",69,130/80,247,,4,4,6,5,86,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+168,477754,Basuki,laki,65,"Guyangan,wonolelo,Pleret",78,120/80,500,Ulkus,1,4,6,5,79,120,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,ada,tdk,IGD,JALAN
+169,134400,Daliman,laki,79,"BerganWijirejo,Pandak",82,150/90,359,GEA,3,4,6,5,73,150,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,IGD,JALAN
+170,134556,Kayekti,wanita,68,"Menang,srihardonio,Pundong",52,120/90,472,Hypertensi,1,4,6,5,78,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+171,318137,sagiyo,laki,58,"Pakes,Mulyodadi,BB Lipuro",61,200/100,285,Hypertensi,1,4,6,5,88,200,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+172,318741,gino S,laki,63,"Keyongan,Sabdodadi,Bantul",71,130/80,408,Ulkus,1,4,6,5,78,130,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,ada,tdk,IGD,JALAN
+173,319974,samadi,laki,55,"Ngijo,Bangunharjo,Sewon",65,130/80,214,Gastritis,3,4,6,5,88,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+174,327408,Surana,laki,70,"Bogoran,Trirenggo,Bantul",68,140/90,158,Haemoroid,4,4,6,5,76,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+175,325329,Daurip,laki,71,"Gunungsempu,Tamantirto,Kasihan,Bantul",79,140/80,175,Dyspepsia,3,4,6,5,77,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+176,335599,marsutrisni,wanita,57,"Kebosungu,Dlingo,Dlingo",49,130/80,186,,4,4,6,5,86,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+177,344265,Sugiman,laki,44,"Kembangputihan,Guwosari,Pajangan",58,140/90,203,,4,4,6,5,89,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+178,345687,sutinah,wanita,63,"Sanggrahan,Murtigading,Sanden.",57,140/90,241,Dermatitis,3,4,6,5,78,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+179,367495,Ratna,wanita,50,"Pendowo,Pendowoharjo,Sewon",48,140/90,216,Hyperlipidaemia,2,4,6,5,79,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+180,355140,Jumirah,wanita,53,"Mersan,Donotirto,Kretek",45,130/80,167,,4,4,6,5,83,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+181,364283,Ngali,laki,57,"Jogodayoh,SB Mulyo,BB lipuro",53,140/91,190,Hyperlipidaemia,2,4,6,5,79,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+182,363679,Sutarjo,laki,59,"Tirto,triharjo,Pandak.",62,140/80,420,Ulkus,1,4,6,5,83,140,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,ada,tdk,IGD,JALAN
+183,360509,Ngadirah,wanita,60,"Kalakijo,Guwosari,Pajangan",55,130/70,313,Myopia,4,4,6,5,88,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+184,359239,Muchlis S,laki,51,"Smaill,Bg Harjo,Sewon",63,130/90,232,Dyspepsia,3,4,6,5,88,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+185,351712,Susmiyati,wanita,77,"Sidomoro,Timbulharjo,Sewon",57,140/80,155,,4,4,6,5,86,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+186,370259,Supiyem,wanita,61,"Kembangkerep,Srhardono,Pundong",51,140/90,223,Dyspepsia,3,4,6,5,81,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,IGD,JALAN
+187,387422,Ngatimah,wanita,68,"Badan,Panjangrejo,Pundong",52,140/90,215,Rhemuathiod Arhtritis,4,4,6,5,83,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+188,428414,Hanafi,laki,57,"Dukuh,Guwosari,Pajangan",58,140/90,214,IHD,2,4,6,5,88,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+189,428795,Jariah,wanita,53,"Tembi,Timbulharjo,sewon",47,120/80,224,Ulkus,1,4,6,5,89,120,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,ada,tdk,IGD,JALAN
+190,428549,Susilowati,wanita,47,"Karang gede,Pendowoharjo,Sewon",39,140/80,159,Ulkus,1,4,6,5,88,140,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,ada,tdk,IGD,JALAN
+191,433952,Ris Camara,laki,55,"Sutran,Sabdodadi,Bantul",62,150/80,254,,4,4,6,5,88,150,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+192,436506,Sukar.,laki,58,"Nopaten,Gl Harjo,Pandak",62,140/90,198,Bronchitis,3,4,6,5,86,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+193,435727,Dawifah,wanita,40,"Manding,trirenggo,Bantul.",39,120/80,111,Ulkus,1,4,6,5,90,120,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,ada,tdk,IGD,JALAN
+194,425650,Djumilah,wanita,57,"Bogoran,trirenggo,Btl",48,130/80,204,Dyspepsia,3,4,6,5,79,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+195,417628,Umu Maslakhah,wanita,58,"Bungas,Sb Agung,Jetis",45,140/90,252,Asthma,4,4,6,5,86,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+196,467906,Zaeni,wanita,60,"Siangan,Triharjo,Pandak",48,130/90,381,Vomitus,3,4,6,5,79,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+197,466815,Gunadi,laki,57,"Panduan,Galur,Kulon Progo",51,140/90,241,Combotio,4,4,6,5,89,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,IGD,JALAN
+198,459328,Tukilah,wanita,54,"Jati,Triharjo,Imogiri",47,150/90,421,Ulkus,1,4,6,5,88,150,tdk,tdk,tdk,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,ada,tdk,IGD,JALAN
+199,455016,Zulaifah,wanita,68,"Mriyan,Timbulharjo,Sewon",49,130/90,225,,4,4,6,5,73,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+200,467474,Edi Tri Nugroho,laki,51,"Ngabean,Ringinharjo,Btl",48,110/80,132,Vertigo,3,4,6,5,89,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+201,159116,Ramidal,laki,64,"kwalangan,wijirejo,pandak",71,130/80,189,,4,4,6,5,72,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+202,371425,Tolop,laki,68,"menayu,tamantirto,kasihan",54,130/80,102,CKD,1,4,6,5,78,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+203,375020,Pairah,wanita,62,"kasihan.tamantirto,kasihan",58,130/90,214,Hypertensi,1,4,6,5,74,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+204,379346,Cokro,laki,65,"Gondosari,wijirejo,pandak",72,120/80,188,Myalgia,2,4,6,5,76,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+205,453490,samini,wanita,72,"Derman,sd Mulyo,BB lipuro",51,100/80,146,Dyspepsia,3,4,6,5,72,100,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+206,103876,sutijo,laki,73,"kurahan,bantul bantul.",56,130/90,253,"Hypertensi, IHD",1,4,6,5,76,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+207,107370,mahmud,laki,53,"kadisoro,gl harjo,pamdak",64,130/90,241,Stroke,1,4,6,5,88,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+208,100838,suyud,laki,49,"Keyongan,Sabdodadi,Bantul",56,130/80,293,Dyspepsia,3,4,6,5,90,130,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+209,379088,bandiyah,wanita,58,"kembanggede,sendangsari,pajangan",61,120/80,448,Ulkus,1,4,6,5,86,120,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+210,486777,boiman,laki,60,"kaliputih,pendowohajro,sewon",73,160/100,343,Hypertensi,1,4,6,5,80,160,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+211,107564,subagio,laki,56,melikan Bantul Bantul,65,180/90,246,Myalgia,2,4,5,6,88,180,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,IGD,JALAN
+212,553024,Hasyim Safi'i,laki,75,jejranwonokromo pleret,65,80/60,464,Duspnoea,1,2,2,2,120,80,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP ICU
+213,460101,siti,wanita,65,Tegalsari donotirto kretek,66,100/60,491,AMI,1,2,2,1,103,100,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP ICU
+214,524867,budiman,laki,63,Jln dr.Sutomo Bantul,59,90/50,309,CKD,1,1,1,1,145,90,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP ICU
+215,389712,tuminem,wanita,51,"Medelan,Sb Agung jts",51,70/40,471,Hypotensi,4,2,2,2,95,70,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP ICU
+216,360509,ngadirah,wanita,60,"kalak ijo,guosari pajangan",65,110/60,313,Aritmia,4,3,4,3,95,110,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP ICU
+217,389712,tuminem,wanita,51,"Medelan , sb agung jetis",51,60/0,471,Hypotensi,4,2,3,2,123,60,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP ICU
+218,468986,sujarwo,laki,56,"Grogol,Pr tritis,Kretek",56,60/50,512,Stroke,1,2,2,2,124,60,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP ICU
+219,378387,sudarmi,wanita,60,Kalak ijo Guosari pajangan,59,120/60,390,Leptopirosis,3,3,4,3,133,120,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP ICU
+220,217030,Ismiyati,wanita,39,"Puto,Trimulyo,jetis",51,90/70,463,AMI,1,3,2,2,113,90,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP ICU
+221,10186,MUSMAN,laki,53,glagah kidul/tamanan,58,160/120,213,"Hipertensi, Stroke, LBP",1,2,2,2,72,160,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP ICU
+222,10321,SYAMSUDIN,laki,64,tegal tamanan/tamanan,57,160/80,256,"Hipertensi, CA tiroid",1,2,2,1,78,160,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP ICU
+223,10896,TOHIMIN,laki,71,krobokan/tamanan,66,150/100,130,"Hipertensi, Post Stroke, Vertigo",1,1,1,1,74,150,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP ICU
+224,13778,SRI PRIYANTI,laki,59,glagah lor/tamanan,58,140/90,213,Hipertensi,1,2,2,2,76,140,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP ICU
+225,14086,PARGIMAN,laki,61,dladan/tamanan,60,200/90,256,"Hipertensi, Kolesterol",1,3,2,3,72,200,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP ICU
+226,22076,"NGADILAH, NY",wanita,60,grojogan/wirokerten,59,150/90,213,"Hipertensi, Decompensatiocordis",1,2,2,2,76,150,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP ICU
+227,51108,"IJAH, NY",wanita,74,kanggotan/wonokromo,54,240/120,256,"Hipertensi, Kolesterol",1,3,2,2,88,240,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP ICU
+228,20025,MUJILAH,wanita,73,mutihan/wirokerten,60,170/100,256,"Hipertensi, Stroke, Kolesterol",1,3,1,3,90,170,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP ICU
+229,10804,PONIMIN,laki,55,glagah kidul/tamanan,54,140/80,349,Post Stroke,1,2,1,2,86,140,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,tdk,ya,tdk,ada,tdk,IGD,INAP ICU
+230,30487,SII LESTARI,wanita,57,KARANG DUREN/JAGALAN,60,130/80,156,"Bronchitis, Kolesterol",3,1,1,1,90,130,tdk,tdk,tdk,ada,tdk,tdk,tdk,tdk,tdk,ya,tdk,tdk,tdk,IGD,INAP ICU
